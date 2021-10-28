@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "genius-car-mechanics",
+    "build": "genius-car-mechanics-2697c"
+  },
+  "targets": {}
+}
